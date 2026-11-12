@@ -1,3 +1,9 @@
+Source: https://www.cve.org/Legal/TermsOfUse
+Retrieved: 2026-11-11
+Applies to: data/cve_2021_descriptions.csv (derived from CVEProject/cvelistV5, cves/2021)
+
+Use of the CVE(TM) List and the associated references from this website are subject to the terms of use (https://www.cve.org/Legal/TermsOfUse). CVE is sponsored by the U.S. Department of Homeland Security (DHS) Cybersecurity and Infrastructure Security Agency (CISA). Copyright (c) 1999-2026, The MITRE Corporation. CVE is a trademark and the CVE logo is a registered trademark of The MITRE Corporation.
+
 Terms of Use
 License
 
